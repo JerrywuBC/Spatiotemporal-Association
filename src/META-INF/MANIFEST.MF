@@ -1,0 +1,113 @@
+Manifest-Version: 1.0
+Main-Class: org.lmars.geodata.aisproject.main.StartAis
+Class-Path: Saxon-HE-9.9.0-1.jar commons-collections4-4.1.jar commons-ma
+ th3-3.6.1.jar junit.jar netty-codec-http-4.1.19.Final.jar vertx-docgen-
+ 0.9.1.jar jruby-complete-9.1.13.0.jar compiler-0.9.6.jar geospark-1.0.1
+ .jar httpcore-4.4.12.jar kafka-clients-2.4.1.jar poi-scratchpad-3.17.ja
+ r lucene-grouping-8.4.0.jar gt-geojson-14.2.jar j2objc-annotations-1.1.
+ jar elasticsearch-x-content-7.6.1.jar netty-transport-4.1.19.Final.jar 
+ rank-eval-client-7.6.1.jar ini4j-0.5.4.jar netty-transport-native-unix-
+ common-4.1.19.Final.jar vertx-lang-kotlin-coroutines-3.5.4.jar jackson-
+ annotations-2.9.6.jar vertx-lang-js-3.5.4.jar vertx-service-proxy-3.5.4
+ .jar commons-logging-1.2.jar commons-io-2.6.jar commons-logging-1.2.jar
+  guava-23.0.jar GIS_ALG.jar netty-transport-native-kqueue-4.1.19.Final.
+ jar lucene-spatial-extras-8.4.0.jar lucene-join-8.4.0.jar geodesy-1.1.3
+ .jar vertx-stack-manager-3.5.4.jar jdom.jar netty-codec-dns-4.1.19.Fina
+ l.jar jackson-core-2.9.6.jar HdrHistogram-2.1.9.jar CLDriver.jar parent
+ -join-client-7.6.1.jar lucene-sandbox-8.4.0.jar commons-cli-1.2.jar mys
+ ql-connector-java-5.1.47.jar HdrHistogram-2.1.9.jar jackson-dataformat-
+ smile-2.8.11.jar lucene-suggest-8.4.0.jar lucene-misc-8.4.0.jar poi-scr
+ atchpad-3.17.jar netty-transport-native-epoll-4.1.19.Final.jar junit.ja
+ r protobuf-java-3.10.0.jar jackson-annotations-2.9.6.jar proj4j-0.1.0.j
+ ar poi-examples-3.17.jar hutool-all-5.5.7.jar lucene-sandbox-8.4.0.jar 
+ netty-transport-4.1.19.Final.jar compiler-0.9.6.jar aggs-matrix-stats-c
+ lient-7.6.1.jar ezmorph-1.0.6.jar jna-4.5.1.jar poi-ooxml-3.17.jar luce
+ ne-backward-codecs-8.4.0.jar jts-1.13.jar parent-join-client-7.6.1.jar 
+ t-digest-3.2.jar fastjson-1.2.6.jar netty-codec-http-4.1.19.Final.jar k
+ d.jar kotlin-stdlib-jre7-1.2.20.jar vertx-lang-kotlin-3.5.4.jar c3p0-0.
+ 9.5.5.jar hppc-0.8.1.jar netty-resolver-dns-4.1.19.Final.jar commons-co
+ dec-1.11.jar netty-codec-socks-4.1.19.Final.jar animal-sniffer-annotati
+ ons-1.14.jar vertx-lang-kotlin-coroutines-3.5.4.jar log4j-1.2.17.jar lu
+ cene-queryparser-8.4.0.jar Saxon-HE-9.9.0-1.jar groovy-all-2.4.15.jar d
+ om4j-1.6.1.jar vertx-lang-js-3.5.4.jar httpcore-nio-4.4.12.jar timedbdr
+ iver.jar junrar-4.0.0.jar lucene-spatial-8.4.0.jar netty-handler-proxy-
+ 4.1.19.Final.jar vertx-web-common-3.5.4.jar pinyin4j-2.5.0.jar jackson-
+ dataformat-cbor-2.8.11.jar hazelcast-3.8.2.jar kotlin-stdlib-jre8-1.2.2
+ 0.jar jruby-complete-9.1.13.0.jar ini4j-0.5.4.jar netty-codec-socks-4.1
+ .19.Final.jar disruptor-3.4.2.jar pinyin4j-2.5.0.jar netty-transport-na
+ tive-kqueue-4.1.19.Final.jar commons-compress-1.18.jar kotlin-stdlib-jr
+ e7-1.2.20.jar log4j-1.2.17.jar kafka-clients-2.4.1.jar httpclient-4.5.1
+ 0.jar mchange-commons-java-0.2.19.jar error_prone_annotations-2.0.18.ja
+ r jackson-databind-2.9.6.jar netty-tcnative-boringssl-static-2.0.7.Fina
+ l.jar netty-tcnative-boringssl-static-2.0.7.Final.jar mapper-extras-cli
+ ent-7.6.1.jar ice-3.7.1.jar netty-transport-native-unix-common-4.1.19.F
+ inal.jar postgresql-42.2.5.jar aggs-matrix-stats-client-7.6.1.jar vertx
+ -docgen-0.9.1.jar commons-pool2-2.6.0.jar commons-cli-1.2.jar netty-res
+ olver-4.1.19.Final.jar jopt-simple-5.0.2.jar commons-collections4-4.1.j
+ ar hazelcast-3.8.2.jar commons-lang3-3.9.jar org.apache.commons.httpcli
+ ent-3.1.jar groovy-all-2.4.15.jar vertx-lang-kotlin-compiler-3.5.4.jar 
+ elasticsearch-7.6.1.jar vertx-codegen-3.5.4.jar commons-beanutils-1.8.0
+ .jar netty-buffer-4.1.19.Final.jar lucene-memory-8.4.0.jar okhttp-4.9.0
+ .jar httpasyncclient-4.1.4.jar org.apache.commons.httpclient-3.1.jar ne
+ tty-buffer-4.1.19.Final.jar commons-beanutils-1.8.0.jar slf4j-log4j12-1
+ .7.21.jar vertx-bridge-common-3.8.5.jar jackson-dataformat-yaml-2.8.11.
+ jar x-pack-sql-jdbc-7.6.1.jar lucene-spatial-extras-8.4.0.jar elasticse
+ arch-cli-7.6.1.jar okhttp-4.9.0.jar joda-time-2.10.4.jar netty-resolver
+ -dns-4.1.19.Final.jar httpcore-4.4.12.jar netty-handler-4.1.19.Final.ja
+ r poi-3.17.jar lucene-spatial-8.4.0.jar okio-2.8.0.jar vertx-codegen-3.
+ 5.4.jar jackson-databind-2.9.6.jar json-lib-2.4-jdk15.jar snakeyaml-1.1
+ 7.jar kd.jar elasticsearch-rest-client-7.6.1.jar elasticsearch-secure-s
+ m-7.6.1.jar netty-codec-http2-4.1.19.Final.jar lucene-queries-8.4.0.jar
+  sqlite-jdbc-3.32.3.2.jar error_prone_annotations-2.0.18.jar json-lib-2
+ .4-jdk15.jar joda-time-2.10.4.jar vertx-lang-kotlin-3.5.4.jar lucene-hi
+ ghlighter-8.4.0.jar kotlin-reflect-1.2.20.jar lucene-grouping-8.4.0.jar
+  kotlin-script-runtime-1.2.20.jar x-pack-sql-jdbc-7.6.1.jar elasticsear
+ ch-cli-7.6.1.jar okio-2.8.0.jar lucene-suggest-8.4.0.jar netty-codec-4.
+ 1.19.Final.jar kotlinx-coroutines-core-0.21.2.jar lucene-queryparser-8.
+ 4.0.jar lucene-highlighter-8.4.0.jar vertx-web-3.5.4.jar elasticsearch-
+ 7.6.1.jar geodesy-1.1.3.jar sqlite-jdbc-3.32.3.2.jar netty-codec-http2-
+ 4.1.19.Final.jar mapper-extras-client-7.6.1.jar gt-geojson-14.2.jar htt
+ pclient-4.5.10.jar commons-io-2.6.jar poi-examples-3.17.jar jopt-simple
+ -5.0.2.jar kotlin-stdlib-1.4.10.jar lucene-queries-8.4.0.jar slf4j-log4
+ j12-1.7.21.jar vertx-lang-groovy-3.5.4.jar timedbdriver.jar trie4j.jar 
+ elasticsearch-x-content-7.6.1.jar elasticsearch-core-7.6.1.jar elastics
+ earch-core-7.6.1.jar annotations-13.0.jar marine-analysis.jar jdom.jar 
+ lang-mustache-client-7.6.1.jar slf4j-api-1.7.21.jar elasticsearch-geo-7
+ .6.1.jar MarineTraj.jar vertx-stack-manager-3.5.4.jar dom4j-1.6.1.jar t
+ -digest-3.2.jar mchange-commons-java-0.2.19.jar kotlin-compiler-embedda
+ ble-1.2.20.jar poi-excelant-3.17.jar fastjson-1.2.6.jar elasticsearch-r
+ est-client-7.6.1.jar log4j-api-2.11.1.jar vertx-service-proxy-3.5.4.jar
+  poi-excelant-3.17.jar elasticsearch-geo-7.6.1.jar jdom-1.1.2.jar jsr30
+ 5-1.3.9.jar vertx-lang-ruby-3.5.4.jar lucene-spatial3d-8.4.0.jar xmlbea
+ ns-2.3.0.jar gson-2.8.6.jar xerces.jar poi-3.17.jar netty-transport-nat
+ ive-epoll-4.1.19.Final.jar vertx-core-3.5.4.jar lucene-analyzers-common
+ -8.4.0.jar lucene-core-8.4.0.jar kotlin-stdlib-1.4.10.jar jdom-1.1.2.ja
+ r jackson-dataformat-smile-2.8.11.jar milvus-sdk-java-1.0.0.jar mvel2-2
+ .3.1.Final.jar vertx-web-3.5.4.jar simpleSearch.jar c3p0-0.9.5.5.jar ve
+ rtx-core-3.5.4.jar netty-common-4.1.19.Final.jar lucene-backward-codecs
+ -8.4.0.jar netty-handler-4.1.19.Final.jar netty-handler-proxy-4.1.19.Fi
+ nal.jar vertx-lang-groovy-3.5.4.jar lucene-misc-8.4.0.jar lucene-analyz
+ ers-common-8.4.0.jar mvel2-2.3.1.Final.jar xmlbeans-2.3.0.jar json-simp
+ le-1.1.jar lang-mustache-client-7.6.1.jar json-simple-1.1.jar disruptor
+ -3.4.2.jar annotations-13.0.jar postgresql-42.2.5.jar ice-3.7.1.jar poi
+ -ooxml-schemas-3.17.jar netty-resolver-4.1.19.Final.jar hutool-all-5.5.
+ 7.jar jackson-dataformat-cbor-2.8.11.jar snakeyaml-1.17.jar xerces.jar 
+ jna-4.5.1.jar h2-1.4.197.jar jfuzzylite-6.0.1.jar vertx-hazelcast-3.5.4
+ .jar lucene-core-8.4.0.jar guava-23.0.jar jackson-core-2.9.6.jar common
+ s-pool2-2.6.0.jar jackson-dataformat-yaml-2.8.11.jar commons-compress-1
+ .18.jar lucene-memory-8.4.0.jar gson-2.8.6.jar protobuf-java-3.10.0.jar
+  log4j-api-2.11.1.jar netty-common-4.1.19.Final.jar simpleSearch.jar ko
+ tlin-stdlib-jre8-1.2.20.jar geotools_r.jar j2objc-annotations-1.1.jar n
+ etty-codec-dns-4.1.19.Final.jar kotlinx-coroutines-core-0.21.2.jar anim
+ al-sniffer-annotations-1.14.jar jsr305-1.3.9.jar kotlin-script-runtime-
+ 1.2.20.jar ezmorph-1.0.6.jar poi-ooxml-3.17.jar MarineTraj.jar elastics
+ earch-rest-high-level-client-7.6.1.jar elasticsearch-rest-high-level-cl
+ ient-7.6.1.jar hppc-0.8.1.jar CLDriver.jar jts-1.13.jar slf4j-api-1.7.2
+ 1.jar trie4j.jar commons-lang3-3.9.jar kotlin-reflect-1.2.20.jar vertx-
+ lang-ruby-3.5.4.jar lucene-join-8.4.0.jar vertx-bridge-common-3.8.5.jar
+  vertx-web-common-3.5.4.jar vertx-lang-kotlin-compiler-3.5.4.jar h2-1.4
+ .197.jar netty-codec-4.1.19.Final.jar elasticsearch-secure-sm-7.6.1.jar
+  poi-ooxml-schemas-3.17.jar commons-codec-1.11.jar httpcore-nio-4.4.12.
+ jar httpasyncclient-4.1.4.jar rank-eval-client-7.6.1.jar vertx-hazelcas
+ t-3.5.4.jar lucene-spatial3d-8.4.0.jar
+
